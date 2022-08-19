@@ -26,4 +26,8 @@ _Calculator is smimple GUI base software which is use to do multiplication, divi
 
 ## Interface of calculator
 
-![Calculator Interface](https://raw.githubusercontent.com/DeveloperSwastik/Calculator/main/Snapshot/Calculator%20Interface.png)
+<p align="center">
+  <img alt="Interface 1" src="https://raw.githubusercontent.com/DeveloperSwastik/Calculator/main/Snapshot/Calculator%20Interface%201.png" width='200px'>
+  <img alt="Interface 2" src="https://raw.githubusercontent.com/DeveloperSwastik/Calculator/main/Snapshot/Calculator%20Interface%202.png" width='200px'>
+  <img alt="Interface 3" src="https://raw.githubusercontent.com/DeveloperSwastik/Calculator/main/Snapshot/Calculator%20Interface%203.png" width='200px'>
+</p>
