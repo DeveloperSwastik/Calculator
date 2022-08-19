@@ -1,10 +1,9 @@
-# Python Program of Basic Calculator
-_This Repository contain all code and file related to this python project on "Calculator"_
+# Calculator
 
-## About Project
-### This is a simple calculator which can do multiplication, division, addition, subtraction
+_Calculator is smimple GUI base software which is use to do multiplication, division, addition, subtraction._
 
-## Description of buttons use in program
+## Description of buttons
+
 |Button|Desription         |
 |:---: |---                |
 |+     |Addition           |
@@ -26,4 +25,5 @@ _This Repository contain all code and file related to this python project on "Ca
 |Clear |Clear Screen       |
 
 ## Interface of calculator
-![Calculator Interface](https://raw.githubusercontent.com/DeveloperSwastik/Python-Program-Calculator/main/Snapshot/Calculator%20Interface.png)
+
+![Calculator Interface](https://raw.githubusercontent.com/DeveloperSwastik/Calculator/main/Snapshot/Calculator%20Interface.png)
